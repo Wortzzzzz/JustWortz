@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/justWortz/static/css/main.befc6cc1.chunk.css",
-    "main.js": "/justWortz/static/js/main.c859b284.chunk.js",
-    "main.js.map": "/justWortz/static/js/main.c859b284.chunk.js.map",
+    "main.css": "/justWortz/static/css/main.aa704e7b.chunk.css",
+    "main.js": "/justWortz/static/js/main.a3daccc8.chunk.js",
+    "main.js.map": "/justWortz/static/js/main.a3daccc8.chunk.js.map",
     "runtime-main.js": "/justWortz/static/js/runtime-main.d6de0902.js",
     "runtime-main.js.map": "/justWortz/static/js/runtime-main.d6de0902.js.map",
     "static/js/2.811a45e7.chunk.js": "/justWortz/static/js/2.811a45e7.chunk.js",
     "static/js/2.811a45e7.chunk.js.map": "/justWortz/static/js/2.811a45e7.chunk.js.map",
     "index.html": "/justWortz/index.html",
-    "static/css/main.befc6cc1.chunk.css.map": "/justWortz/static/css/main.befc6cc1.chunk.css.map",
+    "static/css/main.aa704e7b.chunk.css.map": "/justWortz/static/css/main.aa704e7b.chunk.css.map",
     "static/js/2.811a45e7.chunk.js.LICENSE.txt": "/justWortz/static/js/2.811a45e7.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.d6de0902.js",
     "static/js/2.811a45e7.chunk.js",
-    "static/css/main.befc6cc1.chunk.css",
-    "static/js/main.c859b284.chunk.js"
+    "static/css/main.aa704e7b.chunk.css",
+    "static/js/main.a3daccc8.chunk.js"
   ]
 }
