@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/justWortz/static/css/main.86c4465f.chunk.css",
+    "main.css": "/justWortz/static/css/main.ac41098c.chunk.css",
     "main.js": "/justWortz/static/js/main.bde83358.chunk.js",
     "main.js.map": "/justWortz/static/js/main.bde83358.chunk.js.map",
     "runtime-main.js": "/justWortz/static/js/runtime-main.d6de0902.js",
@@ -8,13 +8,13 @@
     "static/js/2.811a45e7.chunk.js": "/justWortz/static/js/2.811a45e7.chunk.js",
     "static/js/2.811a45e7.chunk.js.map": "/justWortz/static/js/2.811a45e7.chunk.js.map",
     "index.html": "/justWortz/index.html",
-    "static/css/main.86c4465f.chunk.css.map": "/justWortz/static/css/main.86c4465f.chunk.css.map",
+    "static/css/main.ac41098c.chunk.css.map": "/justWortz/static/css/main.ac41098c.chunk.css.map",
     "static/js/2.811a45e7.chunk.js.LICENSE.txt": "/justWortz/static/js/2.811a45e7.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.d6de0902.js",
     "static/js/2.811a45e7.chunk.js",
-    "static/css/main.86c4465f.chunk.css",
+    "static/css/main.ac41098c.chunk.css",
     "static/js/main.bde83358.chunk.js"
   ]
 }
