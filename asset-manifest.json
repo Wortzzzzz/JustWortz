@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/justWortz/static/css/main.4d12f145.chunk.css",
-    "main.js": "/justWortz/static/js/main.8652239d.chunk.js",
-    "main.js.map": "/justWortz/static/js/main.8652239d.chunk.js.map",
+    "main.js": "/justWortz/static/js/main.410c9f00.chunk.js",
+    "main.js.map": "/justWortz/static/js/main.410c9f00.chunk.js.map",
     "runtime-main.js": "/justWortz/static/js/runtime-main.d6de0902.js",
     "runtime-main.js.map": "/justWortz/static/js/runtime-main.d6de0902.js.map",
     "static/js/2.811a45e7.chunk.js": "/justWortz/static/js/2.811a45e7.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.d6de0902.js",
     "static/js/2.811a45e7.chunk.js",
     "static/css/main.4d12f145.chunk.css",
-    "static/js/main.8652239d.chunk.js"
+    "static/js/main.410c9f00.chunk.js"
   ]
 }
